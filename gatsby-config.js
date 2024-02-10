@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `techapp`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `http://localhost:10076`
   },
 
   
